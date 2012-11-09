@@ -60,6 +60,10 @@ resulting object would look like:
         }
     }
     
+# License #
+
+jquery.serialize-object is released under the [MIT License](http://www.opensource.org/licenses/MIT)
+    
 # Thank You! #
 
 Thanks for taking a look at this.  I hope you find it useful!
