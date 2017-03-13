@@ -1,0 +1,24 @@
+{
+  "name": "jquery.serialize-object",
+  "version": "1.0.0",
+  "description": "Deep form serialization for JQuery",
+  "main": "jquery.serialize-object.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tlowrimore/jquery.serialize-object.git"
+  },
+  "keywords": [
+    "jquery",
+    "serialize",
+    "object"
+  ],
+  "author": "Tim Lowrimore <tlowrimore@coroutine.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tlowrimore/jquery.serialize-object/issues"
+  },
+  "homepage": "https://github.com/tlowrimore/jquery.serialize-object#readme"
+}
